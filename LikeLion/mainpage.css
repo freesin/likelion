@@ -1,0 +1,129 @@
+﻿	header{
+			background-color:#585858;
+			width:100%
+			position: fixed;
+			top : 0px;
+			left: 0px;
+			height:5em;
+			
+		}
+		
+		header ul {
+	
+			font-size:1.5em;
+			color:white;
+			text-align:left;
+			margin-top: 5px;
+			margin:0px;
+			padding: 20px 15px;
+			float:left;
+						
+			
+		}
+		
+		header ul li {
+				
+			display:inline;
+			
+			margin:10px;
+			padding: 20px 20px;
+			padding-top:10px;
+		}
+		
+		header ul li a {
+			text-decoration:none;
+			color:white;
+			position: relative;
+			
+		}
+		header ul li a:hover {
+			text-decoration:none;
+			font-size:130%;
+			
+		}
+		
+		
+		.center{
+			padding:5px;
+			display:block;
+			margin:0px auto 15px auto;
+			left:500px;
+			top:500px;
+			
+			
+		}
+		
+		footer{
+			clear:both;
+			
+		
+		}
+		 
+		footer #logo{
+			position:static;
+			float:right;
+		} 
+		
+		.center {
+			display: table;
+			padding-left:10px;
+		}
+		
+
+		
+		.center a:hover{
+			font-size:150%;
+			  -webkit-transform: scale(1.1);
+			
+			
+		}
+	
+		
+		.icon2{
+			display: table-cell;
+			padding:30px;
+			text-align:center;
+			text-decoration:none;
+			color:black;
+			font-size:15px;
+			 -webkit-transform: scale(1);
+			font-family:'맑은고딕';
+			font-weight:bold;
+		}
+
+
+		#stock{
+			
+			padding:30px;
+			
+			text-decoration:none;
+			color:white;
+			font-size:20px;
+			font-family:'맑은고딕';
+			font-weight:bold;
+		}
+
+		#labor{
+			padding:30px;
+			
+			text-decoration:none;
+			color:white;
+			font-size:20px;
+			font-family:'맑은고딕';
+			font-weight:bold;
+		}
+
+		#team{
+			
+			padding:30px;
+			
+			text-decoration:none;
+			color:white;
+			font-size:20px;
+			font-family:'맑은고딕';
+			font-weight:bold;
+		}
+
+		.explain{
+			background-color: #585858;
+		}
