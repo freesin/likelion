@@ -91,39 +91,18 @@
 			font-weight:bold;
 		}
 
-
-		#stock{
+		.plus{
 			
 			padding:30px;
 			
 			text-decoration:none;
 			color:white;
 			font-size:20px;
-			font-family:'맑은고딕';
-			font-weight:bold;
-		}
-
-		#labor{
-			padding:30px;
 			
-			text-decoration:none;
-			color:white;
-			font-size:20px;
-			font-family:'맑은고딕';
-			font-weight:bold;
-		}
-
-		#team{
-			
-			padding:30px;
-			
-			text-decoration:none;
-			color:white;
-			font-size:20px;
 			font-family:'맑은고딕';
 			font-weight:bold;
 		}
 
 		.explain{
-			background-color: #585858;
+			background-color:#585858; 
 		}
